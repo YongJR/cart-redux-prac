@@ -1,5 +1,5 @@
 
-## Shopping Cart React App With Redux Toolkit
+## Shopping Cart React App With Redux Toolkit 🛒
 
 ### Overview
 This is a simple shopping cart application built using React and Redux Toolkit. The project focuses on leveraging the power of Redux Toolkit to manage the global state efficiently.
